@@ -43,7 +43,7 @@ def regexes(regex, endereco) -> bool:
 
 
 def main():
-    # Entrada colocada manualmente
+
     entrada: String = input("Digite o endereco: ")
 
     print(checaCaso(entrada))
