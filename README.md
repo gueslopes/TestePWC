@@ -1,6 +1,6 @@
 # TestePWC
 
-Teste Lógico PWC
+Teste Código PWC
 
 # Pré-requisitos:
 
